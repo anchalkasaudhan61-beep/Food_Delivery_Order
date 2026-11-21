@@ -1,5 +1,8 @@
 # Food_Delivery_Order
+
+
 **1. Project Overview**
+
 This project analyses food delivery data to understand why some deliveries are late. It checks how traffic, weather, delivery mode and customer zone affect delivery time, and gives suggestions to make delivery faster.
 
 
@@ -12,7 +15,7 @@ This project analyses food delivery data to understand why some deliveries are l
 - To filter data by customer zone like South, North
 - To give 5 business recommendations
 
-- 
+  
 **3. Technology Used**
 - Python
 - Pandas Library
@@ -20,12 +23,13 @@ This project analyses food delivery data to understand why some deliveries are l
 - GitHub
 - kaggle dataset
 
-- 
+  
 -  **4. How To Run**
 1. Open Google Colab
 2. Upload the CSV file - `Food_Delivery_Route_Eficiency_Dataset.csv`
-3. Run the code 
+3. Run the code
+
+
+   
 **AUTHOR**
-
-
    ANCHAL KASAUDHAN
